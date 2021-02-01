@@ -26,6 +26,8 @@ Main Topics:
 - :globe_with_meridians: [Election Passport](http://www.electionpassport.com/) - Election Passport provides free access to a rich dataset of constituency election results in 110 countries and territories throughout the world. The data are unusually complete, including votes won by very small parties, independents, and frequently candidate names, that are difficult to locate. Additional elections are regularly added. Lower House results are on this page, while upper house results are on the Senates page. Election Passport also presents information on the operation of Electoral Systems as well as results from Regional Elections for selected countries.
 - :globe_with_meridians: [Global Elections Database](http://www.globalelectionsdatabase.com/) - The Global Elections Database (formerly known as the Constituency-Level Elections Dataset, 2007) provides information on the results of both national and subnational elections around the world. These data are presented at two levels of analysis, allowing users to quickly identify the results of elections within a country as a whole or within particular constituencies or districts of a country. All parties are included in the database regardless of the number of votes that they won. The data are based on countries' official election results and have been amassed from various government institutions.
 - :globe_with_meridians: [Psephos](http://psephos.adam-carr.net/) - An archive of electoral data maintained by Adam Carr: "The largest, most comprehensive and most up-to-date archive of electoral information in the world, with election statistics from 182 countries. Use the alphabetical index at left to find information about every country in the world."
+- :us: [Tufts Digital Library:  Electoral Datasets](https://dl.tufts.edu/election_datasets) - A collection of US state-level election records.
+- :us: [OpenElections](http://openelections.net) - The goal of OpenElections is to create the first free, comprehensive, standardized, linked set of election results data for the United States.
  
  ## :book: Voting records
  
@@ -35,9 +37,13 @@ Main Topics:
 
 ## :checkered_flag: Election campaigns
 
-## :phone: Polling data
+## :phone: Polling & survey data
 
-## :hammer_and_wrench: Electoral reforms
+- :us: [Voter Study Group](https://www.voterstudygroup.org/data) - The data shared here derive from the VOTER Survey (Views of the Electorate Research Survey) starting in 2016 and weekly Democracy Fund and UCLA Nationscape surveys spanning July 2019 to December 2020. These data form the basis for Voter Study Group analysis and reporting and are available for use by other scholars and journalists interested in engaging the public in meaningful conversations.
+
+## :hammer_and_wrench: Electoral reform
+
+- :us: [Planscore](https://planscore.org/about/historical-data/) - PlanScore presents estimates of the efficiency gap, partisan bias, and the mean-median difference for congressional and state legislative district plans dating back to 1972. Simon Jackman, Eric McGhee, and Nicholas Stephanopoulos compiled these estimates in their academic and litigation-related work. 
 
 ## :balance_scale: Election laws
 
