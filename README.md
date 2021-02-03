@@ -30,13 +30,14 @@ Main Topics:
 - :us: [Tufts Digital Library:  Electoral Datasets](https://dl.tufts.edu/election_datasets) - A collection of US state-level election records.
 - :us: [OpenElections](http://openelections.net) - The goal of OpenElections is to create the first free, comprehensive, standardized, linked set of election results data for the United States.
 - :india: [`datameet/india-election-data`](https://github.com/datameet/india-election-data) - To map publicly available datasets related to General Assembly (Lok Sabha) elections in India.
-- :kenya: ['mikelmaron/kenya-election-data'](https://github.com/mikelmaron/kenya-election-data) - Data useful for election mapping in Kenya. This data comes from http://vote.iebc.or.ke/. There are simple endpoints for requesting json encoded data. download.py iterates, caches, and builds the output.
+- :kenya: [`mikelmaron/kenya-election-data`](https://github.com/mikelmaron/kenya-election-data) - Data useful for election mapping in Kenya. This data comes from http://vote.iebc.or.ke/. There are simple endpoints for requesting json encoded data. download.py iterates, caches, and builds the output.
 - :globe_with_meridians: [Voter Turnout Database](https://www.idea.int/data-tools/data/voter-turnout) - The Voter Turnout Database is the best resource for a wide array of statistics on voter turnout from around the world. It contains the most comprehensive global collection of voter turnout statistics from presidential and parliamentary elections since 1945. Always growing, the database also includes European Parliament elections, as presented by country using both the number of registered voters and voting age population as indicators, and in some cases the data includes statistics on spoilt ballot rate. The easy-to-use database allows you to search for data by country or field, and even download all the data from the database in one file.
  
  ## :book: Legislative records
  
  - :us: [Voteview](https://voteview.com/data) - Voteview allows users to view every congressional roll call vote in American history on a map of the United States and on a liberal-conservative ideological map including information about the ideological positions of voting Senators and Representatives. 
  - :us: [LegiScan National Legislative Datasets](https://legiscan.com/datasets) - Weekly snapshots of session data are created each Sunday morning with updated information on an as-needed basis. Provided in simple comma-separated values files for general bill data, or the most complete form packaged as LegiScan API JSON payloads.
+ - :canada: [Poltext](https://www.poltext.org/en/home) - The main goal of the Poltext project is to collect textual data sources used for policy analysis in Canada, to record the data using a variety of recognized coding methods, and to give researchers free access to the scientific knowledge thus accumulated.
  
 ## :flags: Political parties
 
@@ -44,6 +45,7 @@ Main Topics:
 - :globe_with_meridians: [Varieties of Democracy V-Party Dataset](https://www.v-dem.net/en/data/data/v-party-dataset/) - Varieties of Democracy (V-Dem) is a new approach to conceptualizing and measuring democracy. We provide a multidimensional and disaggregated dataset that reflects the complexity of the concept of democracy as a system of rule that goes beyond the simple presence of elections. The V-Dem project distinguishes between five high-level principles of democracy: electoral, liberal, participatory, deliberative, and egalitarian, and collects data to measure these principles. 
 - :globe_with_meridians: [Political Party Database Project](https://www.politicalpartydb.org/data-2/) - The Political Party Database Project is a multi-country collaborative effort to advance the study of party-based representative democracy. The first round of data, which encompasses 19 countries and 122 political parties, was released in January 2017.
 - :globe_with_meridians: [Manifesto Project](https://manifesto-project.wzb.eu/) - The Manifesto Project provides the scientific community with parties’ policy positions derived from a content analysis of parties’ electoral manifestos. It covers over 1000 parties from 1945 until today in over 50 countries on five continents.
+
 
 ## :checkered_flag: Election campaigns
 
