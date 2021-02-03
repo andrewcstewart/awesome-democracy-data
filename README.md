@@ -43,6 +43,7 @@ Main Topics:
 - :globe_with_meridians: [Party Facts](https://partyfacts.herokuapp.com/) - Party Facts links datasets on political parties and provides an online platform about parties and their history as recorded in social science datasets.
 - :globe_with_meridians: [Varieties of Democracy V-Party Dataset](https://www.v-dem.net/en/data/data/v-party-dataset/) - Varieties of Democracy (V-Dem) is a new approach to conceptualizing and measuring democracy. We provide a multidimensional and disaggregated dataset that reflects the complexity of the concept of democracy as a system of rule that goes beyond the simple presence of elections. The V-Dem project distinguishes between five high-level principles of democracy: electoral, liberal, participatory, deliberative, and egalitarian, and collects data to measure these principles. 
 - :globe_with_meridians: [Political Party Database Project](https://www.politicalpartydb.org/data-2/) - The Political Party Database Project is a multi-country collaborative effort to advance the study of party-based representative democracy. The first round of data, which encompasses 19 countries and 122 political parties, was released in January 2017.
+- :globe_with_meridians: [Manifesto Project](https://manifesto-project.wzb.eu/) - The Manifesto Project provides the scientific community with parties’ policy positions derived from a content analysis of parties’ electoral manifestos. It covers over 1000 parties from 1945 until today in over 50 countries on five continents.
 
 ## :checkered_flag: Election campaigns
 
