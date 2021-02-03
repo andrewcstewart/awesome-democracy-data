@@ -37,6 +37,7 @@ Main Topics:
  ## :book: Voting records
  
  - :us: [Voteview](https://voteview.com/data) - Voteview allows users to view every congressional roll call vote in American history on a map of the United States and on a liberal-conservative ideological map including information about the ideological positions of voting Senators and Representatives. 
+ - :us: [LegiScan National Legislative Datasets](https://legiscan.com/datasets) - Weekly snapshots of session data are created each Sunday morning with updated information on an as-needed basis. Provided in simple comma-separated values files for general bill data, or the most complete form packaged as LegiScan API JSON payloads.
  
 ## :flags: Political parties
 
@@ -61,6 +62,7 @@ Main Topics:
 ## :balance_scale: Election laws
 
 - :globe_with_meridians: [Electoral System Design Database](https://www.idea.int/data-tools/data/electoral-system-design) - The Electoral System Design Database provides comparative data on electoral systems used in 217 countries and territories across the globe. Compared to other similar datasets, this expansive international coverage makes this database the most comprehensive source of information in the elections field. Interactive tools, including maps and graphs, allow users to easily compare regions and sub-regions, filter necessary data and export raw data for further analyses. Country pages provide in depth country level data in a historical format.
+- :us: [State Elections Legislation Database](https://www.ncsl.org/research/elections-and-campaigns/elections-legislation-database.aspx) - This database contains state legislation related to the administration of elections introduced in 2011 through this year, 2020.
 
 ## :package: Packaged datasets
 
