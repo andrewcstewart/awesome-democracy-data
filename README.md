@@ -46,6 +46,10 @@ Main Topics:
 
 ## :checkered_flag: Election campaigns
 
+- :us: [FEC](https://www.fec.gov/data/browse-data/?tab=bulk-data) - Downloadable bulk data files contain data from statements and reports filed with the Commission in a form that may be useful to users performing in-depth campaign finance research. The files, which were previously located on the Commission's file transfer protocol (FTP) server, can be very large because they contain transaction-level data. The update schedule of these files varies from daily to weekly.
+- :us: [Open Secrets](http://www.opensecrets.org/featured-datasets) - The Center for Responsive Politics is the nation's premier research group tracking money in U.S. politics and its effect on elections and public policy.
+- :us: [FollowTheMoney.org](https://www.followthemoney.org/our-data/about-our-data) - The Institute researches and archives a 50-state federal/state database of contributions documenting $100+ billion, plus more than 2 million state lobbyist-client relationships that are registered annually. Recent expansions include selected local-level data, collecting independent spending reports for federal campaigns and in 31 states, and lobbying spending in 20 states.
+
 ## :phone: Polling & survey data
 
 - :us: [Voter Study Group](https://www.voterstudygroup.org/data) - The data shared here derive from the VOTER Survey (Views of the Electorate Research Survey) starting in 2016 and weekly Democracy Fund and UCLA Nationscape surveys spanning July 2019 to December 2020. These data form the basis for Voter Study Group analysis and reporting and are available for use by other scholars and journalists interested in engaging the public in meaningful conversations.
