@@ -32,6 +32,7 @@ Main Topics:
 - :us: [OpenElections](http://openelections.net) - The goal of OpenElections is to create the first free, comprehensive, standardized, linked set of election results data for the United States.
 - :india: [`datameet/india-election-data`](https://github.com/datameet/india-election-data) - To map publicly available datasets related to General Assembly (Lok Sabha) elections in India.
 - :kenya: ['mikelmaron/kenya-election-data'](https://github.com/mikelmaron/kenya-election-data) - Data useful for election mapping in Kenya. This data comes from http://vote.iebc.or.ke/. There are simple endpoints for requesting json encoded data. download.py iterates, caches, and builds the output.
+- :globe_with_meridians: [Voter Turnout Database](https://www.idea.int/data-tools/data/voter-turnout) - The Voter Turnout Database is the best resource for a wide array of statistics on voter turnout from around the world. It contains the most comprehensive global collection of voter turnout statistics from presidential and parliamentary elections since 1945. Always growing, the database also includes European Parliament elections, as presented by country using both the number of registered voters and voting age population as indicators, and in some cases the data includes statistics on spoilt ballot rate. The easy-to-use database allows you to search for data by country or field, and even download all the data from the database in one file.
  
  ## :book: Voting records
  
