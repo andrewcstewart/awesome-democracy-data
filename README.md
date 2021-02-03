@@ -4,14 +4,14 @@ A curated list of awesome data sources related to elections, electoral reforms, 
 
 Main Topics:
 
- - :ballot_box: Election results
- - :book: Legislative records
- - :flags: Political parties
- - :checkered_flag: Election campaigns
- - :phone: Polling & survey data
- - :balance_scale: Election laws & reforms
- - :package: Packaged datasets
- - :octocat: Miscellaneous
+ - :ballot_box: [Election results](#ballot_box-election-results)
+ - :book: [Legislative records](#book-legislative-records)
+ - :flags: [Political parties](#flags-political-parties)
+ - :checkered_flag: [Election campaigns](#checkered_flag-election-campaigns)
+ - :phone: [Polling & survey data](#phone-polling--survey-data)
+ - :balance_scale: [Election laws & reforms](#balance_scale-election-laws--reforms)
+ - :package: [Packaged datasets](#package-packaged-datasets)
+ - :octocat: [Miscellaneous](#hammer_and_wrench-miscellaneous)
  
  ## :ballot_box: Election results
  
