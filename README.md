@@ -52,3 +52,12 @@ Main Topics:
 These are collections of datasets embedded in R or Python packages.
 
 - :package: [elliottmorris/politicaldata](https://github.com/elliottmorris/politicaldata) - An R package for acquiring and analyzing political data — including polls, election results, legislator information, and demographic data. 
+- :package: [`psData`](https://cran.r-project.org/web/packages/psData/README.html) - This R package includes functions for gathering commonly used and regularly maintained political science data sets. It also includes functions for combining components from these data sets into variables that have been suggested in the political science literature, but are not regularly updated.
+- :package: :brazil: [silvadenisson/electionsBR](https://github.com/silvadenisson/electionsBR) - electionsBR offers a set of functions to easily pull and clean Brazilian electoral data from the Brazilian Superior Electoral Court (TSE) website. Among others, the package retrieves data on local and federal elections for all positions (city councilor, mayor, state deputy, federal deputy, governor, and president) aggregated by state, city, and electoral zones.
+
+## :octocat: Repositories
+
+These are git repositories and organizations on Github/Gitlab/etc that contain datasets and/or tools for retrieving and analyzing data.
+
+- :octocat: [MEDSL](https://github.com/MEDSL) - MIT Election Data and Science Lab 
+- :octocat: [FiveThirtyEight](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight, including polling and election forecast data.
