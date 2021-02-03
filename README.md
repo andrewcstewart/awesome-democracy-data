@@ -5,14 +5,13 @@ A curated list of awesome data sources related to elections, electoral reforms, 
 Main Topics:
 
  - :ballot_box: Election results
- - :book: Voting records
+ - :book: Legislative records
  - :flags: Political parties
  - :checkered_flag: Election campaigns
  - :phone: Polling & survey data
- - :hammer_and_wrench: Electoral reform
- - :balance_scale: Election laws
+ - :balance_scale: Election laws & reforms
  - :package: Packaged datasets
- - :octocat: Repositories
+ - :octocat: Miscellaneous
  
  ## :ballot_box: Election results
  
@@ -34,7 +33,7 @@ Main Topics:
 - :kenya: ['mikelmaron/kenya-election-data'](https://github.com/mikelmaron/kenya-election-data) - Data useful for election mapping in Kenya. This data comes from http://vote.iebc.or.ke/. There are simple endpoints for requesting json encoded data. download.py iterates, caches, and builds the output.
 - :globe_with_meridians: [Voter Turnout Database](https://www.idea.int/data-tools/data/voter-turnout) - The Voter Turnout Database is the best resource for a wide array of statistics on voter turnout from around the world. It contains the most comprehensive global collection of voter turnout statistics from presidential and parliamentary elections since 1945. Always growing, the database also includes European Parliament elections, as presented by country using both the number of registered voters and voting age population as indicators, and in some cases the data includes statistics on spoilt ballot rate. The easy-to-use database allows you to search for data by country or field, and even download all the data from the database in one file.
  
- ## :book: Voting records
+ ## :book: Legislative records
  
  - :us: [Voteview](https://voteview.com/data) - Voteview allows users to view every congressional roll call vote in American history on a map of the United States and on a liberal-conservative ideological map including information about the ideological positions of voting Senators and Representatives. 
  - :us: [LegiScan National Legislative Datasets](https://legiscan.com/datasets) - Weekly snapshots of session data are created each Sunday morning with updated information on an as-needed basis. Provided in simple comma-separated values files for general bill data, or the most complete form packaged as LegiScan API JSON payloads.
@@ -55,14 +54,12 @@ Main Topics:
 
 - :us: [Voter Study Group](https://www.voterstudygroup.org/data) - The data shared here derive from the VOTER Survey (Views of the Electorate Research Survey) starting in 2016 and weekly Democracy Fund and UCLA Nationscape surveys spanning July 2019 to December 2020. These data form the basis for Voter Study Group analysis and reporting and are available for use by other scholars and journalists interested in engaging the public in meaningful conversations.
 
-## :hammer_and_wrench: Electoral reform
-
-- :us: [Planscore](https://planscore.org/about/historical-data/) - PlanScore presents estimates of the efficiency gap, partisan bias, and the mean-median difference for congressional and state legislative district plans dating back to 1972. Simon Jackman, Eric McGhee, and Nicholas Stephanopoulos compiled these estimates in their academic and litigation-related work. 
-
-## :balance_scale: Election laws
+## :balance_scale: Election laws & reforms
 
 - :globe_with_meridians: [Electoral System Design Database](https://www.idea.int/data-tools/data/electoral-system-design) - The Electoral System Design Database provides comparative data on electoral systems used in 217 countries and territories across the globe. Compared to other similar datasets, this expansive international coverage makes this database the most comprehensive source of information in the elections field. Interactive tools, including maps and graphs, allow users to easily compare regions and sub-regions, filter necessary data and export raw data for further analyses. Country pages provide in depth country level data in a historical format.
 - :us: [State Elections Legislation Database](https://www.ncsl.org/research/elections-and-campaigns/elections-legislation-database.aspx) - This database contains state legislation related to the administration of elections introduced in 2011 through this year, 2020.
+- :us: [Planscore](https://planscore.org/about/historical-data/) - PlanScore presents estimates of the efficiency gap, partisan bias, and the mean-median difference for congressional and state legislative district plans dating back to 1972. Simon Jackman, Eric McGhee, and Nicholas Stephanopoulos compiled these estimates in their academic and litigation-related work. 
+
 
 ## :package: Packaged datasets
 
@@ -72,9 +69,9 @@ These are collections of datasets embedded in R or Python packages.
 - :package: [`psData`](https://cran.r-project.org/web/packages/psData/README.html) - This R package includes functions for gathering commonly used and regularly maintained political science data sets. It also includes functions for combining components from these data sets into variables that have been suggested in the political science literature, but are not regularly updated.
 - :package: :brazil: [silvadenisson/electionsBR](https://github.com/silvadenisson/electionsBR) - electionsBR offers a set of functions to easily pull and clean Brazilian electoral data from the Brazilian Superior Electoral Court (TSE) website. Among others, the package retrieves data on local and federal elections for all positions (city councilor, mayor, state deputy, federal deputy, governor, and president) aggregated by state, city, and electoral zones.
 
-## :octocat: Repositories
+## :hammer_and_wrench: Miscellaneous
 
-These are git repositories and organizations on Github/Gitlab/etc that contain datasets and/or tools for retrieving and analyzing data.
+These are miscellaneous tools, git repositories and organizations that contain datasets and/or tools for retrieving, manipulating and analyzing data related to electoral systems.
 
 - :octocat: [MEDSL](https://github.com/MEDSL) - MIT Election Data and Science Lab 
 - :octocat: [FiveThirtyEight](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight, including polling and election forecast data.
