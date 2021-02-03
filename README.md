@@ -28,12 +28,17 @@ Main Topics:
 - :globe_with_meridians: [Psephos](http://psephos.adam-carr.net/) - An archive of electoral data maintained by Adam Carr: "The largest, most comprehensive and most up-to-date archive of electoral information in the world, with election statistics from 182 countries. Use the alphabetical index at left to find information about every country in the world."
 - :us: [Tufts Digital Library:  Electoral Datasets](https://dl.tufts.edu/election_datasets) - A collection of US state-level election records.
 - :us: [OpenElections](http://openelections.net) - The goal of OpenElections is to create the first free, comprehensive, standardized, linked set of election results data for the United States.
+- :india: [`datameet/india-election-data`](https://github.com/datameet/india-election-data) - To map publicly available datasets related to General Assembly (Lok Sabha) elections in India.
+- :kenya: ['mikelmaron/kenya-election-data'](https://github.com/mikelmaron/kenya-election-data) - Data useful for election mapping in Kenya. This data comes from http://vote.iebc.or.ke/. There are simple endpoints for requesting json encoded data. download.py iterates, caches, and builds the output.
  
  ## :book: Voting records
  
  - :us: [Voteview](https://voteview.com/data) - Voteview allows users to view every congressional roll call vote in American history on a map of the United States and on a liberal-conservative ideological map including information about the ideological positions of voting Senators and Representatives. 
  
 ## :flags: Political parties
+
+- :globe_with_meridians: [Varieties of Democracy V-Party Dataset](https://www.v-dem.net/en/data/data/v-party-dataset/) - Varieties of Democracy (V-Dem) is a new approach to conceptualizing and measuring democracy. We provide a multidimensional and disaggregated dataset that reflects the complexity of the concept of democracy as a system of rule that goes beyond the simple presence of elections. The V-Dem project distinguishes between five high-level principles of democracy: electoral, liberal, participatory, deliberative, and egalitarian, and collects data to measure these principles. 
+- :globe_with_meridians: [Political Party Database Project](https://www.politicalpartydb.org/data-2/) - The Political Party Database Project is a multi-country collaborative effort to advance the study of party-based representative democracy. The first round of data, which encompasses 19 countries and 122 political parties, was released in January 2017.
 
 ## :checkered_flag: Election campaigns
 
@@ -46,6 +51,8 @@ Main Topics:
 - :us: [Planscore](https://planscore.org/about/historical-data/) - PlanScore presents estimates of the efficiency gap, partisan bias, and the mean-median difference for congressional and state legislative district plans dating back to 1972. Simon Jackman, Eric McGhee, and Nicholas Stephanopoulos compiled these estimates in their academic and litigation-related work. 
 
 ## :balance_scale: Election laws
+
+- :globe_with_meridians: [Electoral System Design Database](https://www.idea.int/data-tools/data/electoral-system-design) - The Electoral System Design Database provides comparative data on electoral systems used in 217 countries and territories across the globe. Compared to other similar datasets, this expansive international coverage makes this database the most comprehensive source of information in the elections field. Interactive tools, including maps and graphs, allow users to easily compare regions and sub-regions, filter necessary data and export raw data for further analyses. Country pages provide in depth country level data in a historical format.
 
 ## :package: Packaged datasets
 
