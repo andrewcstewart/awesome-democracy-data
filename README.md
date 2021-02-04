@@ -2,6 +2,8 @@
 
 A curated list of awesome data sources related to elections, electoral reforms, and democratic political systems.
 
+If you'd like to recommend any data sources for inclusion, feel free to create an issue or discussion, or even a pull request!
+
 Main Topics:
 
  - :ballot_box: [Election results](#ballot_box-election-results)
