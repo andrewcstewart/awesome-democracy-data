@@ -1,5 +1,7 @@
 # Awesome Democracy Data
 
+[![Suggest a Data Source !](https://img.shields.io/badge/Suggest-Data-9cf)](https://github.com/andrewcstewart/awesome-democracy-data/issues/new)
+
 A curated list of awesome data sources related to elections, electoral reforms, and democratic political systems.
 
 If you'd like to recommend any data sources for inclusion, feel free to create an issue or discussion, or even a pull request!
