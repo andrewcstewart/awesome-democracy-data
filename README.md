@@ -9,6 +9,7 @@ If you'd like to recommend any data sources for inclusion, feel free to create a
 
 Main Topics:
 
+ - :classical_building: [Systems of government](#classical_building-systems-of-government)
  - :ballot_box: [Election results](#ballot_box-election-results)
  - :book: [Legislative records](#book-legislative-records)
  - :flags: [Political parties](#flags-political-parties)
@@ -17,6 +18,10 @@ Main Topics:
  - :balance_scale: [Election laws & reforms](#balance_scale-election-laws--reforms)
  - :package: [Packaged datasets](#package-packaged-datasets)
  - :octocat: [Miscellaneous](#hammer_and_wrench-miscellaneous)
+ 
+ ## :classical_building: Systems of government
+ 
+ - :globe_with_meridians: [presidential powers and regime type](https://andreborges.org/datasets/) (by [André Borges](https://twitter.com/ABorgesUnB)) - The dataset of presidential powers covers 49 democracies with elected presidents, in addition to a handful of parliamentary countries where presidents have more than ceremonial powers.
  
  ## :ballot_box: Election results
  
@@ -44,6 +49,11 @@ Main Topics:
  - :us: [Voteview](https://voteview.com/data) - Voteview allows users to view every congressional roll call vote in American history on a map of the United States and on a liberal-conservative ideological map including information about the ideological positions of voting Senators and Representatives. 
  - :us: [LegiScan National Legislative Datasets](https://legiscan.com/datasets) - Weekly snapshots of session data are created each Sunday morning with updated information on an as-needed basis. Provided in simple comma-separated values files for general bill data, or the most complete form packaged as LegiScan API JSON payloads.
  - :canada: [Poltext](https://www.poltext.org/en/home) - The main goal of the Poltext project is to collect textual data sources used for policy analysis in Canada, to record the data using a variety of recognized coding methods, and to give researchers free access to the scientific knowledge thus accumulated.
+ - :us: [openstates](https://openstates.org/) - Track bills, review upcoming legislation, and see how your local representatives are voting in your state. Open States aggregates legislative information from all 50 states, Washington, D.C., and Puerto Rico. This information is then standardized, cleaned, and published to the public via OpenStates.org, a powerful API, and bulk downloads. 
+ - :us: [unitedstates](https://theunitedstates.io/) - A shared commons of data and tools for the United States. Made by the public, used by the public.
+   - [congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents. 
+   - [uscode](https://github.com/unitedstates/uscode) -  A working parser for the US Code's hierarchy, and a work-in-progress parser for the full content.
+   - [districts](https://github.com/unitedstates/districts) - GeoJSON and other shape files for the federal legislative districts of the US. 
  
 ## :flags: Political parties
 
