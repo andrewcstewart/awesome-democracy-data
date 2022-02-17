@@ -1,3 +1,5 @@
+<div align="center">
+ 
 # Awesome Democracy Data
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -7,7 +9,9 @@ A curated list of awesome data sources related to elections, electoral reforms, 
 
 If you'd like to recommend any data sources for inclusion, feel free to create an issue or discussion, or even a pull request!
 
-Main Topics:
+</div>
+ 
+## Topics:
 
  - :classical_building: [Systems of government](#classical_building-systems-of-government)
  - :ballot_box: [Election results](#ballot_box-election-results)
