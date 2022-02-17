@@ -11,7 +11,7 @@ If you'd like to recommend any data sources for inclusion, feel free to create a
 
 </div>
  
-## Topics:
+## Topics
 
  - :classical_building: [Systems of government](#classical_building-systems-of-government)
  - :ballot_box: [Election results](#ballot_box-election-results)
