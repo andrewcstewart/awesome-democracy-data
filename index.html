@@ -13,8 +13,18 @@
   <script>
     window.$docsify = {
       repo: 'andrewcstewart/awesome-democracy-data',
+      plugins: [
+        function (hook, vm) {
+          // parse twemoji
+          hook.doneEach(function() {
+              twemoji.parse(document);
+          });
+        },
+      ]      
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- twemoji -->
+  <script src="//cdn.jsdelivr.net/gh/TaQini/docsify-twemoji@master/twemoji.min.js"></script>  
 </body>
 </html>
