@@ -55,6 +55,8 @@ If you'd like to recommend any data sources for inclusion, feel free to create a
    - [uscode](https://github.com/unitedstates/uscode) -  A working parser for the US Code's hierarchy, and a work-in-progress parser for the full content.
    - [districts](https://github.com/unitedstates/districts) - GeoJSON and other shape files for the federal legislative districts of the US. 
  
+ - :us: [Absurdity Index](https://absurdityindex.org/) - Scores real U.S. federal legislation on a 1-10 absurdity scale and publishes satirical common-sense alternative bills. Public JSON API at `/api/bills.json`.
+
 ## :flags: Political parties
 
 - :globe_with_meridians: [Party Facts](https://partyfacts.herokuapp.com/) - Party Facts links datasets on political parties and provides an online platform about parties and their history as recorded in social science datasets.
